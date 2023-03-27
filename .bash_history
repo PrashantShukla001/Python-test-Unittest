@@ -49,3 +49,24 @@ ls
 chmod ug+x /root/test_atg.py
 cd
 exit
+git init
+ls
+git add .
+git commit -m "python unit test"
+git config --global --edit
+git commit -m "python unit test"
+git add .
+git commit -m "python unit test"
+git branch -M main
+git remote add origin git@github.com:PrashantShukla001/python-unittest.git
+git push -u origin main
+ssh-keygen
+cat /root/.ssh/id_rsa.pub
+git push -u origin main
+python -m venv myenv
+source myenv/bin/activate
+pip install selenium
+sudo yum install python-pip
+pip install selenium
+sudo nano test_atg_world.py
+exit
