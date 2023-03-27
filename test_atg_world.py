@@ -4,7 +4,7 @@ import logging
 
 class TestWebsite(unittest.TestCase):
     def setUp(self):
-        self.driver = webdriver.Chrome('/path/to/chromedriver')
+        self.driver = webdriver.Chrome('C:/Windows/System32/chromedriver.exe')
         self.driver.get("https://atg.world/")
 
     def test_website_load(self):
