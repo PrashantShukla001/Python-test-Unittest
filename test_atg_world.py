@@ -1,6 +1,7 @@
 import unittest
 import requests
 import logging
+import xmlrunner
 
 class TestATG(unittest.TestCase):
     
@@ -21,5 +22,7 @@ if __name__ == '__main__':
     logging.basicConfig(filename='test.log', level=logging.INFO,
                         format='%(asctime)s:%(levelname)s:%(message)s')
     
-    # Run the test
-    unittest.main()
+    # Run the test and output results in xUnit-style XML format
+    with open('test-results.xml', 'wb') as output:
+        runner = xmlrunner.XMLTestRunner(output=output)
+        unittest.main(testRunner=runner)
