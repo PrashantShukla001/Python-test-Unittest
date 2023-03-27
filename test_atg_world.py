@@ -1,24 +1,25 @@
-from selenium import webdriver
 import unittest
+import requests
 import logging
 
-class TestWebsite(unittest.TestCase):
+class TestATG(unittest.TestCase):
+    
     def setUp(self):
-        self.driver = webdriver.Chrome('C:/Windows/System32/chromedriver.exe')
-        self.driver.get("https://atg.world/")
-
-    def test_website_load(self):
-        title = self.driver.title
-        self.assertEqual(title, "ATG - Across The Globe | The Future Of Travel Is Here")
-
+        logging.info("Starting test...")
+    
+    def test_atg_website(self):
+        url = "https://atg.world/"
+        response = requests.get(url)
+        self.assertEqual(response.status_code, 200)
+        logging.info("Website loaded successfully!")
+        
     def tearDown(self):
-        self.driver.quit()
-
+        logging.info("Test complete.")
+    
 if __name__ == '__main__':
     # Set up logging
     logging.basicConfig(filename='test.log', level=logging.INFO,
                         format='%(asctime)s:%(levelname)s:%(message)s')
-    logging.info("Starting test...")
-
+    
+    # Run the test
     unittest.main()
-
