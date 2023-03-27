@@ -156,3 +156,57 @@ git push -u cloud main
 ls
 cat test_atg_world.py 
 clear
+ls
+git init
+git add .
+git commit -m "python unit test commit"
+git branch -M main
+git remote add origin git@github.com:PrashantShukla001/Python-Unit-Test.git
+git remote add pythonunit git@github.com:PrashantShukla001/Python-Unit-Test.git
+git push -u pythonunit main
+ssh-keygen
+cat \.pub
+ssh-keygen
+cat  /root/.ssh/id_rsa.pub
+git push -u pythonunit main
+pip install webdriver_manager
+tail -f test.log
+cat test.log
+ls
+cd /usr/local/bin/
+ls
+chromedriver --version
+cd
+ls
+java -jar jenkins.war --httpPort=8081
+sudo vi /etc/sysconfig/jenkins
+sudo systemctl restart jenkins
+sudo systemctl enable jenkins
+systemctl status jenkins
+sudo vi /etc/sysconfig/jenkins
+netstat
+systemctl start jenkins
+systemctl enable jenkins
+systemctl status jenkins
+sudo vi /etc/sysconfig/jenkins
+sudo systemctl restart jenkins
+systemctl start jenkins
+systemctl enable jenkins
+systemctl status jenkins
+sudo vi /etc/sysconfig/jenkins
+systemctl start jenkins
+sudo systemctl restart jenkins
+systemctl start jenkins
+systemctl enable jenkins
+systemctl status jenkins
+sudo vi /etc/sysconfig/jenkins
+sudo systemctl restart jenkins
+sudo systemctl enable jenkins
+systemctl status jenkins
+sudo vi /etc/sysconfig/jenkins
+sudo vi /var/lib/jenkins/jenkins.model.JenkinsLocationConfiguration.xml
+sudo systemctl restart jenkins
+sudo systemctl stop jenkins
+sudo rm -rf /var/lib/jenkins/
+sudo rm /etc/systemd/system/multi-user.target.wants/jenkins.service
+sudo reboot

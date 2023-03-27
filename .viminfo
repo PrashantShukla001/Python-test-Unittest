@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1679912380,,"wq"
+|2,0,1679936973,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,246 @@
 # Registers:
 
 # File marks:
-'0  5  33  ~/.gitconfig
-|4,48,5,33,1679912380,"~/.gitconfig"
-'1  12  0  ~/ab.sh
-|4,49,12,0,1679907582,"~/ab.sh"
+'0  4  13  /var/lib/jenkins/jenkins.model.JenkinsLocationConfiguration.xml
+|4,48,4,13,1679936973,"/var/lib/jenkins/jenkins.model.JenkinsLocationConfiguration.xml"
+'1  58  17  /etc/sysconfig/jenkins
+|4,49,58,17,1679936902,"/etc/sysconfig/jenkins"
+'2  61  0  /etc/sysconfig/jenkins
+|4,50,61,0,1679936769,"/etc/sysconfig/jenkins"
+'3  61  0  /etc/sysconfig/jenkins
+|4,51,61,0,1679936769,"/etc/sysconfig/jenkins"
+'4  57  0  /etc/sysconfig/jenkins
+|4,52,57,0,1679936762,"/etc/sysconfig/jenkins"
+'5  57  0  /etc/sysconfig/jenkins
+|4,53,57,0,1679936762,"/etc/sysconfig/jenkins"
+'6  57  0  /etc/sysconfig/jenkins
+|4,54,57,0,1679936762,"/etc/sysconfig/jenkins"
+'7  57  0  /etc/sysconfig/jenkins
+|4,55,57,0,1679936762,"/etc/sysconfig/jenkins"
+'8  58  17  /etc/sysconfig/jenkins
+|4,56,58,17,1679936561,"/etc/sysconfig/jenkins"
+'9  58  17  /etc/sysconfig/jenkins
+|4,57,58,17,1679936561,"/etc/sysconfig/jenkins"
 
 # Jumplist (newest first):
+-'  4  13  /var/lib/jenkins/jenkins.model.JenkinsLocationConfiguration.xml
+|4,39,4,13,1679936973,"/var/lib/jenkins/jenkins.model.JenkinsLocationConfiguration.xml"
+-'  1  0  /var/lib/jenkins/jenkins.model.JenkinsLocationConfiguration.xml
+|4,39,1,0,1679936912,"/var/lib/jenkins/jenkins.model.JenkinsLocationConfiguration.xml"
+-'  58  17  /etc/sysconfig/jenkins
+|4,39,58,17,1679936902,"/etc/sysconfig/jenkins"
+-'  58  17  /etc/sysconfig/jenkins
+|4,39,58,17,1679936902,"/etc/sysconfig/jenkins"
+-'  61  0  /etc/sysconfig/jenkins
+|4,39,61,0,1679936887,"/etc/sysconfig/jenkins"
+-'  61  0  /etc/sysconfig/jenkins
+|4,39,61,0,1679936887,"/etc/sysconfig/jenkins"
+-'  61  0  /etc/sysconfig/jenkins
+|4,39,61,0,1679936769,"/etc/sysconfig/jenkins"
+-'  61  0  /etc/sysconfig/jenkins
+|4,39,61,0,1679936769,"/etc/sysconfig/jenkins"
+-'  57  0  /etc/sysconfig/jenkins
+|4,39,57,0,1679936764,"/etc/sysconfig/jenkins"
+-'  57  0  /etc/sysconfig/jenkins
+|4,39,57,0,1679936764,"/etc/sysconfig/jenkins"
+-'  57  0  /etc/sysconfig/jenkins
+|4,39,57,0,1679936764,"/etc/sysconfig/jenkins"
+-'  57  0  /etc/sysconfig/jenkins
+|4,39,57,0,1679936764,"/etc/sysconfig/jenkins"
+-'  57  0  /etc/sysconfig/jenkins
+|4,39,57,0,1679936762,"/etc/sysconfig/jenkins"
+-'  57  0  /etc/sysconfig/jenkins
+|4,39,57,0,1679936762,"/etc/sysconfig/jenkins"
+-'  58  17  /etc/sysconfig/jenkins
+|4,39,58,17,1679936705,"/etc/sysconfig/jenkins"
+-'  58  17  /etc/sysconfig/jenkins
+|4,39,58,17,1679936705,"/etc/sysconfig/jenkins"
+-'  58  17  /etc/sysconfig/jenkins
+|4,39,58,17,1679936705,"/etc/sysconfig/jenkins"
+-'  58  17  /etc/sysconfig/jenkins
+|4,39,58,17,1679936705,"/etc/sysconfig/jenkins"
+-'  58  17  /etc/sysconfig/jenkins
+|4,39,58,17,1679936561,"/etc/sysconfig/jenkins"
+-'  58  17  /etc/sysconfig/jenkins
+|4,39,58,17,1679936561,"/etc/sysconfig/jenkins"
+-'  58  17  /etc/sysconfig/jenkins
+|4,39,58,17,1679936362,"/etc/sysconfig/jenkins"
+-'  58  17  /etc/sysconfig/jenkins
+|4,39,58,17,1679936362,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936335,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936335,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936335,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936335,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936335,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936335,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936335,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936335,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936335,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936335,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936222,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936222,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936200,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936078,"/etc/sysconfig/jenkins"
+-'  145  0  /etc/sysconfig/jenkins
+|4,39,145,0,1679936078,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936025,"/etc/sysconfig/jenkins"
+-'  1  0  /etc/sysconfig/jenkins
+|4,39,1,0,1679936025,"/etc/sysconfig/jenkins"
 -'  5  33  ~/.gitconfig
 |4,39,5,33,1679912380,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1679912300,"~/.gitconfig"
--'  12  0  ~/ab.sh
-|4,39,12,0,1679907582,"~/ab.sh"
--'  12  0  ~/ab.sh
-|4,39,12,0,1679907582,"~/ab.sh"
--'  1  0  ~/ab.sh
-|4,39,1,0,1679907485,"~/ab.sh"
--'  1  0  ~/ab.sh
-|4,39,1,0,1679907485,"~/ab.sh"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
+-'  5  33  ~/.gitconfig
+|4,39,5,33,1679912380,"~/.gitconfig"
 
 # History of marks within files (newest to oldest):
+
+> /var/lib/jenkins/jenkins.model.JenkinsLocationConfiguration.xml
+	*	1679936971	0
+	"	4	13
+	^	4	14
+	.	4	14
+	+	4	14
+
+> /etc/sysconfig/jenkins
+	*	1679936901	0
+	"	58	17
+	^	58	18
+	.	58	18
+	+	58	18
+	+	1	0
+	+	58	18
 
 > ~/.gitconfig
 	*	1679912377	0
