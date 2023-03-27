@@ -70,3 +70,89 @@ sudo yum install python-pip
 pip install selenium
 sudo nano test_atg_world.py
 exit
+sudo yum install python3
+sudo yum install python3-pip
+sudo nano test_atg_world.py
+python3 test_atg_world.py 
+sudo yum install -y google-chrome-stable
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+sudo yum localinstall google-chrome-stable_current_x86_64.rpm
+google-chrome
+google-chrome --no-sandbox
+ssh -X user@your-server
+ssh -X user@www.cloudtechburner.tk
+ssh -X @ec2-user
+[200~ssh -X ec2-user@123.45.67.89
+ssh -X ec2-user@52.87.219.171
+sudo yum install -y gcc-c++ glibc-headers openssl-devel readline libyaml-devel readline-devel zlib zlib-devel
+sudo yum install -y python3-pip
+sudo pip3 install selenium
+wget https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_linux64.zip
+unzip chromedriver_linux64.zip
+sudo mv chromedriver /usr/local/bin/
+ls
+nano test_atg_world.py 
+clear
+nano test_atg_world.py 
+python3 test_atg_world.py 
+nano test_atg_world.py 
+python3 test_atg_world.py 
+nano test_atg_world.py 
+python3 test_atg_world.py 
+nano test_atg_world.py 
+python3 test_atg_world.py 
+git init
+ls
+rm test_atg.py
+ls
+rm -f test_atg.py
+ls
+git add .
+git commit -m  "python unit test"
+git push origin main
+ls
+ows
+pwd
+ls
+which python
+cd /path/to/chromedriver
+cd path
+cd /path
+ls
+nano test_atg_world.py 
+git init
+git add .
+git commit -m "updated code"
+git push origin -main
+git branch
+git push origin -main
+history
+git push origin main
+git pull
+git push origin main
+ls
+rm -f test_atg_world.py 
+nano test_atg_world.py
+ls
+git add test_atg_world.py 
+git commit "python_unit_test_task"
+git commit -m "python_unit_test_task"
+git push origin main
+git pull test_atg_world.py
+git push origin main
+git commit -m "unit-test-task"
+git add .
+git commit -m "unittest task"
+git push origin main
+s
+ls
+git init
+git add .
+git commit -m "python unit test"
+git branch -M main
+git remote add origin git@github.com:PrashantShukla001/cloudtech.git
+git remote add cloud git@github.com:PrashantShukla001/cloudtech.git
+git push -u cloud main
+ls
+cat test_atg_world.py 
+clear
